@@ -1,5 +1,5 @@
 # Instagram Bot
 
-## Tools - 
-### Follow
-### Unfollow
+## Tools available - 
+Follow
+Unfollow
