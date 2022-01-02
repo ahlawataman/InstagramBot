@@ -1,4 +1,4 @@
-# Instagram Bot
+# Instagram Bo
 
 ## Tools available - 
 Follow
