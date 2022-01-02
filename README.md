@@ -2,6 +2,8 @@
 INSTAGRAM BOT
 
 ## Tools available - 
-Follow
-
-Unfollow
+<ul>
+  <li>Follow by hashtags</li>
+  <li>Follow other's followers</li>
+  <li>Unfollow users</li>
+</ul>
