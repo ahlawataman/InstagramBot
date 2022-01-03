@@ -1,4 +1,4 @@
-<img src='https://github.com/ahlawataman/InstagramBot/blob/main/InstagramBot.png' width=100 height=100>
+<img src='https://github.com/ahlawataman/InstagramBot/blob/main/InstagramBot.png' width=100 height=100 marginBottom=5>
 <h2> INSTAGRAM BOT </h2>
 <p>Tool that automates your social media interactions to "farm" Likes, Comments, and Followers on Instagram implemented in Python using the Selenium module.</p>
 
