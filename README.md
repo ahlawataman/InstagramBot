@@ -10,7 +10,7 @@
     	<img src="https://img.shields.io/badge/built%20with-Python3-red.svg" />
     </a>
     <a href="https://discord.gg">
-	<img src="">
+	<img src="https://img.shields.io/discord/510385886869979136.svg">
     </a>
   </p>
 </div>
