@@ -20,6 +20,7 @@
   <li>Follow other's followers</li>
   <li>Unfollow users</li>
 </ul>
-<hr>
+<div>
 <h3> Results </h3>
 <img src="https://github.com/ahlawataman/InstagramBot/blob/main/InstabotResults.jpg" widht=438 height=166>
+</div>
